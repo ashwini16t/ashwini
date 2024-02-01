@@ -1,1 +1,2 @@
 this is my first git file
+lets make changer to code as told by the manager
